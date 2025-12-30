@@ -2,7 +2,11 @@
 
 This repository provides supplementary datasets for the article:
 
-Polyzos, E., and Youssef, L. (2025). Investigating the impact of global events on cryptocurrency performance: a big data event study approach. Journal of International Money and Finance, 157, 103375. https://doi.org/10.1016/j.jimonfin.2025.103375
+Polyzos, E., and Youssef, L. (2025). Investigating the impact of global events on cryptocurrency performance: a big data event study approach. Journal of International Money and Finance, 157, 103375. 
+<a href="https://doi.org/10.1016/j.jimonfin.2025.103375" target="_blank" rel="noopener noreferrer">
+https://doi.org/10.1016/j.jimonfin.2025.103375
+</a>
+
 
 ## Contents
 
