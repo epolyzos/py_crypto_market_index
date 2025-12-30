@@ -30,11 +30,25 @@ Polyzos, E., and Youssef, L. (2025). Investigating the impact of global events o
 
 A machine-readable citation is provided in CITATION.cff.
 
-## Licence
-This repository is released under the MIT License (see LICENSE).
+## License
+
+This repository is released under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, and adapt the contents of this repository for academic, policy, and non-commercial purposes, subject to the terms of the MIT License.
+
+While the MIT License does not legally require citation, **academic use of these data requires appropriate citation**. 
 
 ## Disclaimer
-These files are provided for research and replication purposes. No warranty is provided. Please verify suitability for your specific application and cite the paper if you use the data.
+The data are provided for research and educational purposes only.  Users are responsible for ensuring appropriate use and citation.
 
-## Contact
-For questions or issues, please open a GitHub issue on this repository.
+## Versioning
+This repository follows a simple date-based versioning convention.
+
+- Each public update corresponds to a new version of the data and/or documentation.
+- The file `data/LAST_UPDATED.txt` records the most recent update date.
+- Earlier versions may differ in variable definitions, coverage, or construction methods.
+
+Users are encouraged to record the version date used in their analysis and to ensure consistency when comparing results across updates.
+
+
+
