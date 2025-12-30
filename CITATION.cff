@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the associated Journal of International Money and Finance article."
+title: "Supplementary Data: Investigating the impact of global events on cryptocurrency performance: a big data event study approach"
+authors:
+  - family-names: "Polyzos"
+    given-names: "Efstathios"
+  - family-names: "Youssef"
+    given-names: "Layal"
+repository-code: "https://github.com/epolyzos/py_crypto_market_index/"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Polyzos"
+      given-names: "Efstathios"
+    - family-names: "Youssef"
+      given-names: "Layal"
+  title: "Investigating the impact of global events on cryptocurrency performance: a big data event study approach"
+  journal: "Journal of International Money and Finance"
+  year: 2025
+  volume: 157
+  pages: "103375"
+  doi: "10.1016/j.jimonfin.2025.103375"
+  url: "https://doi.org/10.1016/j.jimonfin.2025.103375"
